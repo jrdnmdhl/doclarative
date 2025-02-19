@@ -15,4 +15,7 @@ Imports:
     future.callr,
     officer,
     flextable,
-    ggplot2
+    ggplot2,
+    furrr,
+    progress,
+    cli
